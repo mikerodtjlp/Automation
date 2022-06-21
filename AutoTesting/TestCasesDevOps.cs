@@ -19,7 +19,8 @@ namespace AutoTesting
 {
     public partial class UI
     {
-        public void UITest_DevOps(string item)
+        [TestMethod, TestCategory("Devops")]
+        public void UITest_Devops()
         {
             UI_Chrome();
             UI_Edge();

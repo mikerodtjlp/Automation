@@ -19,6 +19,7 @@ namespace AutoTesting
 {
     public partial class UI
     {
+        [TestMethod, TestCategory("GitLab")]
         public void UITest_DevGitLab(string item)
         {
             UI_Chrome();
