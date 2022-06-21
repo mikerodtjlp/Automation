@@ -1,5 +1,5 @@
 /*
- * Poly 
+ * Template 
  * UI Automation
  */
 
